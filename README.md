@@ -6,5 +6,5 @@
 请不要使用！请不要使用！请不要使用！
 
 
-频道：https://t.me/KingRan521
+拉取代码：ql repo https://github.com/18ghwg/ghg.git "jd_|jx_|jdCookie" "activity|backUp" "^jd[^_]|USER|utils|function|sign|sendNotify|ql|JDJR"
 
